@@ -1,3 +1,3 @@
 # rust project
 
-SHOULD START WORKING ON IT
+Should be in progress
